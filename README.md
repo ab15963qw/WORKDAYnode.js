@@ -1,5 +1,19 @@
 # node.js
 
+安裝 node.js 
+
+macos下戴位置
+
+https://nodejs.org/en/
+
+都按下一步
+
+安裝完之後
+
+#到終端機打
+node -v
+是否安裝成功
+
 
 
 
