@@ -14,8 +14,13 @@ https://nodejs.org/en/
 node -v
 是否安裝成功
 
+helloworld.js
 
+終端機輸入 node helloworld.js
 
+會出現Hello World
+
+![image]()
 
 server.js
 
