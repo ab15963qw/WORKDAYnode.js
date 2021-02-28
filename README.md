@@ -14,13 +14,23 @@ https://nodejs.org/en/
 node -v
 是否安裝成功
 
+####################
+
+
+
 helloworld.js
 
 終端機輸入 node helloworld.js
 
 會出現Hello World
 
-![image]()
+
+![image](https://github.com/ab15963qw/WORKDAYnode.js/blob/main/%E6%88%AA%E5%9C%96%202021-03-01%20%E4%B8%8A%E5%8D%8812.41.05.png)
+
+
+
+
+###############
 
 server.js
 
